@@ -1,6 +1,6 @@
 # weak-password demonstration tool
-Password cracker with Python.
-Its y first time making it so i learned all this in workshop of horizon and
+weak-password demonstration tool with Python.
+Its my first time making it so i learned all this in workshop of horizon and
 credit goes to @bajpai .
 The sole purpose of making it is to discover various ways via which you can be attacked ( in a cyber attack ) by someone. 
 This is solely for educational purpose as I know basics of python so I try making it.

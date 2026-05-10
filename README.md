@@ -1,4 +1,4 @@
-# Password-cracker-
+# weak-password demonstration tool
 Password cracker with Python.
 Its y first time making it so i learned all this in workshop of horizon and
 credit goes to @bajpai .
